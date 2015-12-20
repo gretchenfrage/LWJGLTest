@@ -10,7 +10,7 @@ public class Test {
  
     // We need to strongly reference callback instances.
     private GLFWErrorCallback errorCallback;
-    private GLFWKeyCallback   keyCallback;
+    private GLFWKeyCallback keyCallback;
  
     // The window handle
     private long window;
